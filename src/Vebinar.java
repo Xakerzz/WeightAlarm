@@ -12,4 +12,5 @@ public class Vebinar {
         }
     }
     int c = 0;
+    int d = 0;
 }
