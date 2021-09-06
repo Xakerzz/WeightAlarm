@@ -16,6 +16,6 @@ public class Strings {
             System.out.println(scanner.next());
         }
         System.out.println(scanner.nextInt()%5);
-
+        System.out.println();
     }
 }
